@@ -21,9 +21,7 @@ public class GreetingController {
 		@RequestMapping("/api/lookups")
 		public String AppGreet()
 		{
-			return "Hello There !!!";
-			
-			
+			return "Hello There !!!";						
 		}	
 	}
 
