@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: namaste
+server:
+  port: 8082
